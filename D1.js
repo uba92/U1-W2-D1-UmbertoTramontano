@@ -81,8 +81,8 @@ console.log(MY_NAME)
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-let sottraction = 4 - x
-console.log('Il risultato della sottrazione tra, ', 4, ' e ', x, ' è: ', sottraction)
+let sub = 4 - x
+console.log('Il risultato della sottrazione tra, ', 4, ' e ', x, ' è: ', sub)
 
 /* ESERCIZIO 7
  Crea due variabili: "name1" e "name2". Assegna a name1 la stringa "john", e assegna a name2 la stringa "John" (con la J maiuscola!).
