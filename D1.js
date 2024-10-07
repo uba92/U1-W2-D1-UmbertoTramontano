@@ -27,7 +27,7 @@ let variabileUndefined
 console.log('Sono un dato di tipo ', variabileUndefined)
 //TIPO NULL. Posso assegnare a una variabile il valore null.
 //Dopo aver dichiarato una variabile le assegno il valore 'null'.
-//In questo modo sto assegnando il 'vuoto', il 'nulla', come valore di quella variabile
+//In questo modo sto esplicitamente assegnando il 'vuoto', il 'nulla', il NIENTE come valore di quella variabile
 let variabileNull = null
 console.log('Sono un dato di tipo ', variabileNull)
 
