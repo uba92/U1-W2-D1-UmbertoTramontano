@@ -15,12 +15,12 @@ REGOLE
 //Insiemi di caratteri che formano una parola o una frase
 let string = 'Ciao, io sono una stringa!'
 console.log(string)
-//TIPO NUMERICO. Tutti i tipi di numeri. Es: interi, reali, etc. 
+//TIPO NUMERICO. Tutti i tipi di numeri. Es: interi, reali, etc.
 let number = 50
 console.log(number, 'è un dato di tipo numerico')
 //TIPO BOOLEANO. Questo tipo di dati può avere solo due valori possibili, true o false.
 //ESEMPIO: Il risultato di un confronto tra due numeri è un dato di tipo booleano.
-// 5 è maggiore di 10? false 
+// 5 è maggiore di 10? false
 console.log('Sono un dato booleano ', 5 > 10)
 //TIPO UNDEFINED. Quando dichiaro una variabile e non gli assegno alcun valore, essa sarà di tipo undefined
 let variabileUndefined
@@ -47,9 +47,9 @@ console.log('Il mio nome è ', myName)
 let number1 = 12
 let number2 = 20
 let sum = number1 + number2
-console.log ('La somma tra ', number1, ' e ', number2, ' è: ', sum)
+console.log('La somma tra ', number1, ' e ', number2, ' è: ', sum)
 //Oppure
-let newSum = 12 + 20 
+let newSum = 12 + 20
 console.log('La somma tra 12 e 20 è: ', newSum)
 
 /* ESERCIZIO 4
@@ -72,7 +72,7 @@ console.log(myName)
 //Quello che ho appena fatto con la variabile myName non potrò farlo con una variabile dichiarata con il costrutto const
 const MY_NAME = 'Umberto'
 console.log(MY_NAME)
-// MY_NAME = 'Giovanni' 
+// MY_NAME = 'Giovanni'
 //Decommentando la riga di codice 75 sulla console del browser mi comparirà un messaggio di ERRORE.
 //Non posso assegnare un nuovo valore a una variabile che ho dichiarato come costante
 
